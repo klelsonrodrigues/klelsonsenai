@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+        <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+        <BODY>
+           <H1> TÍTULO1 </H1>
+        </BODY>
+        </HTML>
+         
+        - Publicar seu arquivo na branch main.
+        - Criar uma nova branch, chamada feature1.
+        - Na branch feature1, publicar o mesmo arquivo.
+        - Realizar seguinte alteração na linha h1 do arquivo da branch main:
+         
+        <HTML>
+        <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+        <BODY>
+           <H1> VERSIONAMENTO </H1>
+        </BODY>
+        </HTML>
+         
+        - Realizar seguinte alteração na linha h1 do arquivo da branch feature1:
+         
+        <HTML>
+        <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+        <BODY>
+           <H1> GIT </H1>
+        </BODY>
+        </HTML>
+         
